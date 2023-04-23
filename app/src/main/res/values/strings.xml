@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Travel Buddy</string>
+    <string name="backgroung">backgroung</string>
+    <string name="welcome">Welcome</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="name">Name</string>
+    <string name="create_account">create_account</string>
+    <string name="enter_first_name">enter_first_name</string>
+    <string name="enter_password">enter_password</string>
+    <string name="enter_confirm_password">enter_confirm_password</string>
+
+    <string name="navigation_open">Open Navigation Drawer</string>
+    <string name="navigation_close">Open Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main5">MainActivity5</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="no_internet_connection">No internet Connection</string>
+    <string name="try_again">Try Again</string>
+    <string name="no_internet_text"> \n Your internet connection is \n currently not available please \n check or try again.</string>
+
+
+    <string name="languege_translator">Languege Translator</string>
+    <string name="source_text">source text</string>
+    <string name="todo">TODO</string>
+    <string name="or">OR</string>
+    <string name="todo2">TODO</string>
+    <string name="say_something">Say something</string>
+    <string name="translate">Translate</string>
+    <string name="translated_text">translated text</string>
+
+</resources>

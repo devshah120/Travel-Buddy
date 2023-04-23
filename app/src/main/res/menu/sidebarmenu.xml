@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <!--    <group android:checkableBehavior="single">-->
+
+    <!--        Dashbord-->
+<!--    <item android:title="Dashbord">-->
+<!--        <menu>-->
+<!--            <item-->
+<!--                android:id="@+id/home"-->
+<!--                android:icon="@drawable/baseline_home_24"-->
+<!--                android:title="Home" />-->
+<!--            <item-->
+<!--                android:id="@+id/offer"-->
+<!--                android:icon="@drawable/baseline_offer_24"-->
+<!--                android:title="Top Offers" />-->
+<!--            <item-->
+<!--                android:id="@+id/notification"-->
+<!--                android:icon="@drawable/baseline_notificaion_24"-->
+<!--                android:title="Notifications" />-->
+<!--        </menu>-->
+<!--    </item>-->
+
+    <item android:title="Profile">
+        <menu>
+            <item
+                android:id="@+id/managepro"
+                android:icon="@drawable/baseline_account_circle_24"
+                android:title="Manage Profile" />
+            <item
+                android:id="@+id/settings"
+                android:icon="@drawable/baseline_translate_24"
+                android:title="Translate" />
+<!--            <item-->
+<!--                android:id="@+id/bookingsddffsfd"-->
+<!--                android:icon="@drawable/my_booking"-->
+<!--                android:title="My Bookings" />-->
+            <item
+                android:id="@+id/credit"
+                android:icon="@drawable/coding"
+                android:title="Credits" />
+            <item
+                android:id="@+id/finish"
+                android:icon="@drawable/baseline_logout_24"
+                android:title="Log Out" />
+        </menu>
+    </item>
+    <!--    </group>-->
+</menu>
